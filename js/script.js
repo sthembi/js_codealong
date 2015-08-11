@@ -1,17 +1,16 @@
 // Variables (var)
 
-// Constants (const)
-
 // Type of Data (typeof)
 
 
-// String Concatination
+// Concatination
 
 
 // Data Type Conversion (parseInt, parseFloat)
 
 
 // String Methods (example: .toUpperCase())
+// check resources to see how these work
 
 
 // Dialog Boxes (alert, confirm, prompt)
